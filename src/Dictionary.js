@@ -6,12 +6,11 @@ export default function Dictionary() {
   let [keyword, setKeyword] = useState("");
 
   function handleResponse(response) {
-    console.log(response);
+    console.log(response.data);
   }
 
   function search(event) {
     event.preventDefault();
-    alert(`Searching for ${keyword} definition`);
   }
 
   let apiUrl = `https://api.shecodes.io/dictionary/v1/define?word=${keyword}&key=31044e85dc6dotb5a7ff80ae77ab2504`;
