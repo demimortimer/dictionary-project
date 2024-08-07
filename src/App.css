@@ -4,6 +4,7 @@ body {
 
 .App {
   margin: 0 auto;
+  max-width: 960px;
 }
 .App-footer {
   text-align: center;

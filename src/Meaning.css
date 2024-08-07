@@ -6,6 +6,7 @@
   line-height: 2;
   color: black;
   margin-left: 20px;
+  font-size: 14px;
 }
 
 .Meaning .example {
@@ -15,4 +16,5 @@
   margin-top: 10px;
   margin-left: 20px;
   padding-bottom: 20px;
+  font-size: 14px;
 }
