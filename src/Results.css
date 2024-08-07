@@ -1,0 +1,12 @@
+.Results h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.Results .Phonetics {
+  opacity: 0.7;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+}

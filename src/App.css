@@ -1,3 +1,10 @@
+body {
+  background-color: #f8f5ff;
+}
+
+.App {
+  margin: 0 auto;
+}
 .App-footer {
   text-align: center;
   margin: 30px;
